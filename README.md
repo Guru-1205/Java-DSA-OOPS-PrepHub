@@ -1,4 +1,4 @@
-Here's the corrected README with proper formatting:
+
 
 ---
 
@@ -26,7 +26,6 @@ Also, check out my other repositories for more Java-related resources:
 - [Additional Resources](#additional-resources)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 👋 Hey there, it's Gc here!
@@ -65,7 +64,7 @@ Also, check out my other repositories for more Java-related resources:
 
 ### Handwritten Notes
 ✍️ Located in the `JAVA BASICS & OOPS HANDWRITTEN NOTES` folder. This folder has chapter-wise notes on all topics under Java and OOPS.
-📜 Located in the `JAVA DSA HANDWRITTEN NOTES CHAPTER WI...` folder. This folder contains detailed handwritten notes on various DSA topics.
+📜 Located in the `JAVA DSA HANDWRITTEN NOTES CHAPTER WISE` folder. This folder contains detailed handwritten notes on various DSA topics.
 
 📝 **Additional Notes**:
   - `JAVA ALL NOTES - 1.pdf`: An overall view of everything about Java.
@@ -93,7 +92,7 @@ Also, check out my other repositories for more Java-related resources:
    - Interview Preparation: `JAVA INTERVIEW PREP QNS/`
    - Handwritten Notes: 
      - `JAVA BASICS & OOPS HANDWRITTEN NOTES/`
-     - `JAVA DSA HANDWRITTEN NOTES CHAPTER WI.../`
+     - `JAVA DSA HANDWRITTEN NOTES CHAPTER WISE/`
      - `JAVA ALL NOTES - 1.pdf`
      - `JAVA ALL NOTES - 2.pdf`
 
