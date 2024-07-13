@@ -1,4 +1,3 @@
-
 ---
 
 # Java-DSA-OOPS-PrepHub
@@ -28,16 +27,17 @@ Also, check out my other repositories for more Java-related resources:
 - [License](#license)
 
 ## Introduction
-Hey there ,it's Gc here
+👋 Hey there, it's Gc here!
+
 📚 Welcome to the **Java-DSA-OOPS-PrepHub** repository! This repository is designed to help you master Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOPS) in Java, with a special focus on interview and placement preparation.
 
 ## Features
 
 ✨ **Features**:
-- **Books**: Curated selection of books on Java, DSA, and OOPS.
-- **Cheat Sheets**: Quick reference guides for important concepts.
-- **Interview Preparation**: Questions and answers for DSA and OOPS.
-- **Handwritten Notes**: Detailed notes for better understanding.
+- **📖 Books**: Curated selection of books on Java, DSA, and OOPS.
+- **📑 Cheat Sheets**: Quick reference guides for important concepts.
+- **💼 Interview Preparation**: Questions and answers for DSA and OOPS.
+- **✍️ Handwritten Notes**: Detailed notes for better understanding.
 
 ## Resources
 
@@ -46,16 +46,28 @@ Hey there ,it's Gc here
 
 ### Cheat Sheets
 📑 Located in the `JAVA CHEAT SHEET` folder.
+- **Spring Boot Cheat Sheets**
+- **Java Basics Cheat Sheets**
+- **OOPS Cheat Sheets**
+- **DSA Cheat Sheets**
 
 ### Interview Preparation
-💼 Located in the `JAVA INTERVIEW PREP QNS` folder.
+💼 Located in the `JAVA INTERVIEW PREP QNS` folder. This folder contains seven files:
+1. **Main Interview Questions to Cover**
+2. **Java Coding DSA Questions with Solutions - Part 1**
+3. **Java Coding DSA Questions with Solutions - Part 2**
+4. **Java Interview Questions from Guru99**
+5. **Java Interview Questions from InterviewBit**
+6. **Additional Notes - Part 1**
+7. **Additional Notes - Part 2**
 
 ### Handwritten Notes
-✍️ Java Basics and OOPS Handwritten Notes: Located in the `JAVA BASICS & OOPS HANDWRITTEN NOTES` folder.
-📜 DSA Handwritten Notes Chapter-wise: Located in the `JAVA DSA HANDWRITTEN NOTES CHAPTER WI...` folder.
-📝 Additional Notes: 
-  - `JAVA ALL NOTES - 1.pdf`
-  - `JAVA ALL NOTES - 2.pdf`
+✍️ Located in the `JAVA BASICS & OOPS HANDWRITTEN NOTES` folder. This folder has chapter-wise notes on all topics under Java and OOPS.
+📜 Located in the `JAVA DSA HANDWRITTEN NOTES CHAPTER WI...` folder. This folder contains detailed handwritten notes on various DSA topics.
+
+📝 **Additional Notes**:
+  - `JAVA ALL NOTES - 1.pdf`: An overall view of everything about Java.
+  - `JAVA ALL NOTES - 2.pdf`: An overall view of everything about Java.
 
 ## Additional Resources
 
@@ -108,7 +120,6 @@ We welcome contributions to enhance the quality and breadth of the resources. If
 
 Feel free to adjust the file names and paths according to your actual file structure and resources.
 
-**Happy coding
+**Happy coding!**
 
-cheers Gc!**
-rephrase with emojis
+**Cheers, Gc!**
