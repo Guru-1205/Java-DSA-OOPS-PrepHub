@@ -1,3 +1,4 @@
+
 ---
 
 # Java-DSA-OOPS-PrepHub
@@ -27,17 +28,16 @@ Also, check out my other repositories for more Java-related resources:
 - [License](#license)
 
 ## Introduction
-👋 Hey there, it's Gc here!
-
+Hey there ,it's Gc here
 📚 Welcome to the **Java-DSA-OOPS-PrepHub** repository! This repository is designed to help you master Data Structures and Algorithms (DSA) and Object-Oriented Programming (OOPS) in Java, with a special focus on interview and placement preparation.
 
 ## Features
 
 ✨ **Features**:
-- **📖 Books**: Curated selection of books on Java, DSA, and OOPS.
-- **📑 Cheat Sheets**: Quick reference guides for important concepts.
-- **💼 Interview Preparation**: Questions and answers for DSA and OOPS.
-- **✍️ Handwritten Notes**: Detailed notes for better understanding.
+- **Books**: Curated selection of books on Java, DSA, and OOPS.
+- **Cheat Sheets**: Quick reference guides for important concepts.
+- **Interview Preparation**: Questions and answers for DSA and OOPS.
+- **Handwritten Notes**: Detailed notes for better understanding.
 
 ## Resources
 
@@ -108,6 +108,7 @@ We welcome contributions to enhance the quality and breadth of the resources. If
 
 Feel free to adjust the file names and paths according to your actual file structure and resources.
 
-**Happy coding!**
+**Happy coding
 
-**Cheers, Gc!**
+cheers Gc!**
+rephrase with emojis
