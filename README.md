@@ -14,6 +14,44 @@ Also, check out my other repositories for more Java-related resources:
 
 ---
 
+## ☕ Premium Structured Notes (Optional Upgrade)
+
+Alongside the **free** resources in this repository, I’ve created **professionally structured, in-depth notes** for:
+
+- **Java Basics**
+- **OOPS**
+- **Advanced Java**
+- **Data Structures & Algorithms (DSA)**
+- **Database Management Systems (DBMS)**
+
+### 📖 Why choose these notes?
+- Organized in a **logical study flow** — perfect for beginners & interview prep.
+- Every concept includes **examples and explanations**.
+- Designed for **fast revision before interviews or exams**.
+
+---
+
+### 📸 Preview of Notes Structure
+---
+
+### 📋 Full List of Topics
+[📄 **View the detailed Table of Contents**](https://docs.google.com/document/d/1NIzgZJn1OJ8ufRCrd3Jr3LBg-oMMfiWD/edit?usp=sharing&ouid=113854111462691595320&rtpof=true&sd=true)
+
+---
+
+### 💳 Get the Premium Notes
+Support my work and get **lifetime access** to the notes:  
+👉 [**Buy Me a Coffee – Get the Notes**](https://buymeacoffee.com/gurucharanks/extras)
+
+---
+
+### ⚠️ Disclaimer
+- **All purchases are non-refundable.**
+- If any planned notes are missing, they will be uploaded **on request**.
+- Please review the **Table of Contents** before purchase to ensure it matches your learning needs.
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
