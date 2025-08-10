@@ -30,8 +30,103 @@ Alongside the **free** resources in this repository, I’ve created **profession
 - Designed for **fast revision before interviews or exams**.
 
 ---
+# 📚 Premium Notes – Structure & Preview
 
-### 📸 Preview of Notes Structure
+## 🗂 Overall Structure of the Notes
+The premium notes are organized in a **well-structured format** for smooth navigation, easy learning, and quick revision.
+
+![Overall Structure](https://github.com/user-attachments/assets/c6555752-d263-482f-a78c-6d90e502f4db)
+
+---
+
+## 📌 DBMS Section
+The **DBMS** module includes:
+- **SQL Queries** & **PL/SQL**
+- Detailed notes on **Transaction Management**
+- **Database Introduction** & **Normalization** concepts
+
+![DBMS Overview](https://github.com/user-attachments/assets/7f01902f-a1cb-4d43-be5d-4b96d87d932a)
+
+---
+
+## 📷 Transaction Notes – Preview
+Screenshots of the **Transaction** folder notes.
+
+![Transaction Notes](https://github.com/user-attachments/assets/cba4933f-82d5-4c22-a87d-4515da8b6b0e)
+
+---
+
+## 📷 SQL Notes – Preview
+Screenshots of the **SQL** folder notes.
+
+![SQL Notes](https://github.com/user-attachments/assets/6aa73e6f-f3cc-4246-b357-0f468ae8efaa)
+
+---
+
+## ✍️ Handwritten Sketches
+Custom-drawn diagrams for better conceptual understanding.
+
+![Handwritten Sketches](https://github.com/user-attachments/assets/3ab6301a-e310-41d3-a6c6-f5dbb6485920)
+
+---
+
+## 💻 Real-World Coding Applications
+Includes in-depth coding challenges from:
+- **Zoho**
+- **Mr. Cooper**
+- **Various On-Campus Placement Rounds**
+
+![Coding Application Example](https://github.com/user-attachments/assets/a277e071-6473-41f8-b837-95d99fc0f947)
+
+---
+
+## 📊 Project Example – Finance Tracker
+An end-to-end **Finance Tracker Application** with complete project structure.
+
+![Finance Tracker Structure](https://github.com/user-attachments/assets/cd5d24ad-477b-4930-ba62-d5c6c6a64cc6)
+
+---
+
+## 📂 Java Basics – Folder Structure
+All **fundamental Java concepts** organized for step-by-step learning.
+
+![Java Basics Folder](https://github.com/user-attachments/assets/b73cce58-9a17-4691-8977-366f9df3cc55)
+
+---
+
+## 📂 Java Misc Concepts
+Covers **Java 8 to Java 23** features — powerful yet often overlooked improvements.
+
+![Java Misc Folder](https://github.com/user-attachments/assets/ccd25ac7-967d-4885-b97e-3aebf5f5f54a)
+
+---
+
+## 📂 Advanced Java – Folder Structure
+Includes:
+- File Handling
+- Exception Handling
+- Generics
+- Java Commands
+- And more
+
+![Advanced Java Folder](https://github.com/user-attachments/assets/7d39a78c-dde7-473d-aeb7-b6980912aefc)
+
+---
+
+## 📂 Threading – Folder Structure
+Focused content on **multithreading** and concurrency.
+
+![Threading Folder](https://github.com/user-attachments/assets/e333555f-185a-4992-82f3-a18c15a2b5d7)
+
+---
+
+## 📂 Java OOPS – Folder Structure
+Detailed coverage of:
+- **All four pillars** of Object-Oriented Programming
+- Key interview-oriented concepts
+
+![Java OOPS Folder](https://github.com/user-attachments/assets/48c89c79-340e-4665-b2de-b3b8c8519db6)
+
 ---
 
 ### 📋 Full List of Topics
