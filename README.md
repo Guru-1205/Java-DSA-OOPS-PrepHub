@@ -133,7 +133,7 @@ Detailed coverage of:
 [📄 **View the detailed Table of Contents**](https://docs.google.com/document/d/1NIzgZJn1OJ8ufRCrd3Jr3LBg-oMMfiWD/edit?usp=sharing&ouid=113854111462691595320&rtpof=true&sd=true)
 
 ---
-### There will be a Maintenance Sheet to make it easy for you to spot any new content or updates right away that are being added during the period of time
+### There will be a Maintenance Sheet to make it easy for you to spot any new content or updates right away that are being added during the period of plan
 <img width="1806" height="488" alt="image" src="https://github.com/user-attachments/assets/10d5c4ac-9f96-4068-a8c5-b6f179d1b6f2" />
 
 ### Check this Maintenance Sheet 
