@@ -30,6 +30,11 @@ Alongside the **free** resources in this repository, I’ve created **profession
 - Designed for **fast revision before interviews or exams**.
 
 ---
+### 💳 Get the Premium Notes
+Support my work and get **access** to the notes:  
+👉 [**Buy Me a Coffee – Get the Notes**](https://buymeacoffee.com/gurucharanks/extras)
+
+---
 # 📚 Premium Notes – Structure & Preview
 
 ## 🗂 Overall Structure of the Notes
