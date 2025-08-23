@@ -133,9 +133,15 @@ Detailed coverage of:
 [📄 **View the detailed Table of Contents**](https://docs.google.com/document/d/1NIzgZJn1OJ8ufRCrd3Jr3LBg-oMMfiWD/edit?usp=sharing&ouid=113854111462691595320&rtpof=true&sd=true)
 
 ---
+### There will be a Maintenance Sheet to make it easy for you to spot any new content or updates right away that are being added during the period of time
+<img width="1806" height="488" alt="image" src="https://github.com/user-attachments/assets/10d5c4ac-9f96-4068-a8c5-b6f179d1b6f2" />
 
+### Check this Maintenance Sheet 
+https://docs.google.com/spreadsheets/d/1DNCDwI2Wrm6NbWWHzt-2y8xqkU_c3rI4odfpLnmAPLg/edit?usp=sharing
+
+---
 ### 💳 Get the Premium Notes
-Support my work and get **lifetime access** to the notes:  
+Support my work and get **access** to the notes:  
 👉 [**Buy Me a Coffee – Get the Notes**](https://buymeacoffee.com/gurucharanks/extras)
 
 ---
