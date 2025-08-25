@@ -31,7 +31,7 @@ Alongside the **free** resources in this repository, I’ve created **profession
 
 ---
 ### 💳 Get the Premium Notes
-Support my work and get **access** to the notes:  
+### Support my work and get **access** to the notes:  ( Starting from 1 USD, around 80 Rupees or in case of any specific notes, can contact this Mail-id premguru1045@gmail.com for its pricing ) 
 👉 [**Buy Me a Coffee – Get the Notes**](https://buymeacoffee.com/gurucharanks/extras)
 
 ---
